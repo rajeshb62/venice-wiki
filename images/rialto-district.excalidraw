@@ -1,0 +1,257 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "hermes-agent",
+  "elements": [
+    {
+      "type": "rectangle",
+      "id": "bg",
+      "x": -50, "y": -50, "width": 900, "height": 750,
+      "backgroundColor": "#1a1a2e",
+      "fillStyle": "solid",
+      "strokeWidth": 0, "opacity": 100
+    },
+    {
+      "type": "text",
+      "id": "t-title",
+      "x": 180, "y": -20,
+      "text": "The Rialto District — Venice's Commercial Heart (c. 1500)",
+      "fontSize": 20, "fontFamily": 1, "strokeColor": "#e2e8f0",
+      "originalText": "The Rialto District — Venice's Commercial Heart (c. 1500)",
+      "autoResize": true
+    },
+    {
+      "type": "text",
+      "id": "t-guide",
+      "x": 200, "y": 10,
+      "text": "Schematic plan — Grand Canal runs left to right. North is up, arrow shows the Canal's flow through the S-bend.",
+      "fontSize": 11, "fontFamily": 1, "strokeColor": "#718096",
+      "originalText": "Schematic plan — Grand Canal runs left to right. North is up, arrow shows the Canal's flow through the S-bend.",
+      "autoResize": true
+    },
+
+    {
+      "type": "text",
+      "id": "t-north",
+      "x": 185, "y": 45,
+      "text": "NORTH (Cannaregio / Fondamente Nuove →)",
+      "fontSize": 9, "fontFamily": 1, "strokeColor": "#4a5568",
+      "originalText": "NORTH (Cannaregio / Fondamente Nuove →)",
+      "autoResize": true
+    },
+
+    {
+      "type": "text",
+      "id": "t-south",
+      "x": 185, "y": 470,
+      "text": "SOUTH (San Marco / Giudecca →)",
+      "fontSize": 9, "fontFamily": 1, "strokeColor": "#4a5568",
+      "originalText": "SOUTH (San Marco / Giudecca →)",
+      "autoResize": true
+    },
+
+    {
+      "type": "rectangle",
+      "id": "grand-canal",
+      "x": 120, "y": 235, "width": 500, "height": 45,
+      "backgroundColor": "#0d1b2a",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "strokeColor": "#38b2ac",
+      "roundness": {"type": 3}
+    },
+    {
+      "type": "text",
+      "id": "t-gc",
+      "x": 290, "y": 248, "width": 160, "height": 20,
+      "text": "Grand Canal (Canalazzo)",
+      "fontSize": 10, "fontFamily": 1, "strokeColor": "#38b2ac",
+      "textAlign": "center", "verticalAlign": "middle",
+      "containerId": "grand-canal", "originalText": "Grand Canal (Canalazzo)", "autoResize": true
+    },
+
+    {
+      "type": "rectangle",
+      "id": "rialto-bridge",
+      "x": 340, "y": 215, "width": 60, "height": 85,
+      "backgroundColor": "#2d3748",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeColor": "#f6e05e",
+      "roundness": {"type": 3},
+      "boundElements": [{"id": "t-rialto-bridge", "type": "text"}]
+    },
+    {
+      "type": "text",
+      "id": "t-rialto-bridge",
+      "x": 345, "y": 240, "width": 50, "height": 30,
+      "text": "Rialto\nBridge\n(wooden\nuntil 1591)",
+      "fontSize": 7, "fontFamily": 1, "strokeColor": "#e2e8f0",
+      "textAlign": "center", "verticalAlign": "middle",
+      "containerId": "rialto-bridge", "originalText": "Rialto Bridge\n(wooden until 1591)", "autoResize": true
+    },
+
+    {
+      "type": "rectangle",
+      "id": "fondaco",
+      "x": 350, "y": 160, "width": 100, "height": 50,
+      "backgroundColor": "#2d3748",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeColor": "#ed8936",
+      "roundness": {"type": 3},
+      "boundElements": [{"id": "t-fondaco", "type": "text"}]
+    },
+    {
+      "type": "text",
+      "id": "t-fondaco",
+      "x": 355, "y": 170, "width": 90, "height": 30,
+      "text": "Fondaco dei Tedeschi\n(German warehouse\n+ lodging)",
+      "fontSize": 7, "fontFamily": 1, "strokeColor": "#e2e8f0",
+      "textAlign": "center", "verticalAlign": "middle",
+      "containerId": "fondaco", "originalText": "Fondaco dei Tedeschi", "autoResize": true
+    },
+
+    {
+      "type": "rectangle",
+      "id": "rialto-market",
+      "x": 280, "y": 290, "width": 180, "height": 70,
+      "backgroundColor": "#2d3748",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeColor": "#48bb78",
+      "roundness": {"type": 3},
+      "boundElements": [{"id": "t-market", "type": "text"}]
+    },
+    {
+      "type": "text",
+      "id": "t-market",
+      "x": 285, "y": 300, "width": 170, "height": 50,
+      "text": "Rialto Market District\n- Fruit & vegetable market\n- Fish market (Pescheria)\n- Spice, silk, luxury rows",
+      "fontSize": 7, "fontFamily": 1, "strokeColor": "#e2e8f0",
+      "textAlign": "center", "verticalAlign": "middle",
+      "containerId": "rialto-market", "originalText": "Rialto Market District\n- Fruit & vegetable market\n- Fish market (Pescheria)\n- Spice, silk, luxury rows", "autoResize": true
+    },
+
+    {
+      "type": "rectangle",
+      "id": "banking-district",
+      "x": 430, "y": 290, "width": 130, "height": 70,
+      "backgroundColor": "#2d3748",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeColor": "#9f7aea",
+      "roundness": {"type": 3},
+      "boundElements": [{"id": "t-banking", "type": "text"}]
+    },
+    {
+      "type": "text",
+      "id": "t-banking",
+      "x": 435, "y": 300, "width": 120, "height": 50,
+      "text": "Rialto Banks\n- Banco della Piazza\n- Banco Giro\n- Money changers\n- Exchange counters",
+      "fontSize": 7, "fontFamily": 1, "strokeColor": "#e2e8f0",
+      "textAlign": "center", "verticalAlign": "middle",
+      "containerId": "banking-district", "originalText": "Rialto Banks\n- Banco della Piazza\n- Banco Giro\n- Money changers\n- Exchange counters", "autoResize": true
+    },
+
+    {
+      "type": "rectangle",
+      "id": "san-marco",
+      "x": 520, "y": 300, "width": 100, "height": 100,
+      "backgroundColor": "#2d3748",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeColor": "#fc8181",
+      "roundness": {"type": 3},
+      "boundElements": [{"id": "t-sm", "type": "text"}]
+    },
+    {
+      "type": "text",
+      "id": "t-sm",
+      "x": 525, "y": 325, "width": 90, "height": 50,
+      "text": "Piazza\nSan Marco\n(St. Mark's\nBasilica +\nPalace)",
+      "fontSize": 7, "fontFamily": 1, "strokeColor": "#e2e8f0",
+      "textAlign": "center", "verticalAlign": "middle",
+      "containerId": "san-marco", "originalText": "San Marco", "autoResize": true
+    },
+
+    {
+      "type": "rectangle",
+      "id": "arsenal-area",
+      "x": 500, "y": 150, "width": 120, "height": 40,
+      "backgroundColor": "#2d3748",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeColor": "#e53e3e",
+      "roundness": {"type": 3},
+      "boundElements": [{"id": "t-arsenal-area", "type": "text"}]
+    },
+    {
+      "type": "text",
+      "id": "t-arsenal-area",
+      "x": 505, "y": 155, "width": 110, "height": 30,
+      "text": "Arsenal (→ east)\n1.5 km down\nRiva degli Schiavoni",
+      "fontSize": 6, "fontFamily": 1, "strokeColor": "#e2e8f0",
+      "textAlign": "center", "verticalAlign": "middle",
+      "containerId": "arsenal-area", "originalText": "Arsenal (→ east)", "autoResize": true
+    },
+
+    {
+      "type": "arrow",
+      "id": "a-canal-flow",
+      "x": 120, "y": 240,
+      "width": 30, "height": 0,
+      "points": [[0,0],[30,0]],
+      "endArrowhead": "arrow",
+      "strokeColor": "#38b2ac"
+    },
+    {
+      "type": "text",
+      "id": "t-flow",
+      "x": 100, "y": 228,
+      "text": "Canal flow",
+      "fontSize": 6, "fontFamily": 1, "strokeColor": "#38b2ac",
+      "originalText": "Canal flow", "autoResize": true
+    },
+
+    {
+      "type": "rectangle",
+      "id": "canal-1",
+      "x": 140, "y": 150, "width": 15, "height": 85,
+      "backgroundColor": "#0d1b2a",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeColor": "#3a4a6a"
+    },
+    {
+      "type": "rectangle",
+      "id": "canal-2",
+      "x": 140, "y": 235, "width": 15, "height": 70,
+      "backgroundColor": "#0d1b2a",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeColor": "#3a4a6a"
+    },
+    {
+      "type": "rectangle",
+      "id": "canal-3",
+      "x": 520, "y": 235, "width": 15, "height": 65,
+      "backgroundColor": "#0d1b2a",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeColor": "#3a4a6a"
+    },
+
+    {
+      "type": "text",
+      "id": "t-notes",
+      "x": 140, "y": 420,
+      "text": "Key facts about the Rialto District:\n- Rialto = 'Rivoalto' (high bank) — the first inhabited area of Venice\n- The wooden Rialto Bridge was the only bridge over the Grand Canal until the Accademia Bridge (1854)\n- The Fondaco dei Tedeschi was the largest of several 'fondachi' (foreign trading compounds)\n- German merchants lived here under strict curfew — locked in at night\n- Dante Gabriel Rossetti's father was a custodian here in the 19th century\n- The Rialto banking district was Europe's first concentration of public and private banks",
+      "fontSize": 8, "fontFamily": 1, "strokeColor": "#a0aec0",
+      "originalText": "Key facts about the Rialto District:", "autoResize": true
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#ffffff"
+  }
+}

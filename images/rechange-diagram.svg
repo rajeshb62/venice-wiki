@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 680" width="880" height="680">
+<rect width="880" height="680" fill="#ffffff"/>
+<rect x="40" y="40" width="800" height="600" rx="0" fill="#1a1a2e" stroke="#1e1e1e" stroke-width="0"  />
+<rect x="190" y="230" width="200" height="100" rx="30" fill="#2d3748" stroke="#f6e05e" stroke-width="2"  />
+<rect x="510" y="230" width="220" height="100" rx="30" fill="#2d3748" stroke="#48bb78" stroke-width="2"  />
+<path d="M 390 260 L 510 260" fill="none" stroke="#f6e05e" stroke-width="2.5"  />
+<polygon points="510,260 501.22417438109625,264.79425538604204 501.22417438109625,255.20574461395796" fill="#f6e05e" stroke="none"/>
+<path d="M 630 290 L 510 290" fill="none" stroke="#48bb78" stroke-width="2.5"  />
+<polygon points="510,290 518.7758256189037,285.20574461395796 518.7758256189037,294.79425538604204" fill="#48bb78" stroke="none"/>
+<rect x="220" y="410" width="460" height="80" rx="30" fill="#0d1b2a" stroke="#e53e3e" stroke-width="2"  />
+<text x="170" y="124.4" font-family="sans-serif" font-size="18" fill="#e2e8f0"  >Exchange and Rechange: The Venetian Carry Trade</text>
+<text x="170" y="148.0" font-family="sans-serif" font-size="10" fill="#718096"  >Based on Davanzati, Notizia de' cambi (1581) — adapted for Venice-London</text>
+<text x="290.0" y="258.8" font-family="sans-serif" font-size="11" fill="#e2e8f0" text-anchor="middle" >VENICE</text>
+<text x="290.0" y="273.1" font-family="sans-serif" font-size="11" fill="#e2e8f0" text-anchor="middle" >(Lender)</text>
+<text x="290.0" y="287.40000000000003" font-family="sans-serif" font-size="11" fill="#e2e8f0" text-anchor="middle" >102½ ducats</text>
+<text x="620.0" y="258.8" font-family="sans-serif" font-size="11" fill="#e2e8f0" text-anchor="middle" >LONDON</text>
+<text x="620.0" y="273.1" font-family="sans-serif" font-size="11" fill="#e2e8f0" text-anchor="middle" >(Borrower)</text>
+<text x="620.0" y="287.40000000000003" font-family="sans-serif" font-size="11" fill="#e2e8f0" text-anchor="middle" >104¾ ducats</text>
+<text x="620.0" y="301.7" font-family="sans-serif" font-size="11" fill="#e2e8f0" text-anchor="middle" >repaid</text>
+<text x="410" y="251.4" font-family="sans-serif" font-size="8" fill="#f6e05e"  >1. EXCHANGE:</text>
+<text x="410" y="261.8" font-family="sans-serif" font-size="8" fill="#f6e05e"  >lends 102½ ducats</text>
+<text x="410" y="272.2" font-family="sans-serif" font-size="8" fill="#f6e05e"  >in Venice, repayable</text>
+<text x="410" y="282.59999999999997" font-family="sans-serif" font-size="8" fill="#f6e05e"  >in London at current rate</text>
+<text x="390" y="296.4" font-family="sans-serif" font-size="8" fill="#48bb78"  >2. RECHANGE:</text>
+<text x="390" y="306.79999999999995" font-family="sans-serif" font-size="8" fill="#48bb78"  >redraws bill back</text>
+<text x="390" y="317.2" font-family="sans-serif" font-size="8" fill="#48bb78"  >to Venice — repayment</text>
+<text x="390" y="327.59999999999997" font-family="sans-serif" font-size="8" fill="#48bb78"  >at higher rate</text>
+<text x="450.0" y="427.2" font-family="sans-serif" font-size="9" fill="#e2e8f0" text-anchor="middle" >PROFIT: 104¾ − 102½ = 2¼ ducats per 100 ducats lent</text>
+<text x="450.0" y="438.9" font-family="sans-serif" font-size="9" fill="#e2e8f0" text-anchor="middle" >≈ 3.8% annual return (at 7-month maturity)</text>
+<text x="450.0" y="462.3" font-family="sans-serif" font-size="9" fill="#e2e8f0" text-anchor="middle" >Economic substance: an interest-bearing loan, legally disguised as</text>
+<text x="450.0" y="474.0" font-family="sans-serif" font-size="9" fill="#e2e8f0" text-anchor="middle" >back-to-back foreign exchange contracts.</text>
+<text x="170" y="526.4" font-family="sans-serif" font-size="8" fill="#718096"  >The diagram illustrates a rechange operation between Venice and London.</text>
+<text x="170" y="536.8" font-family="sans-serif" font-size="8" fill="#718096"  >The lender (Venice) advances funds at one exchange rate; the borrower (London)</text>
+<text x="170" y="547.1999999999999" font-family="sans-serif" font-size="8" fill="#718096"  >repays at a higher rate after a fixed term. The difference is the profit —</text>
+<text x="170" y="557.6" font-family="sans-serif" font-size="8" fill="#718096"  >economically equivalent to interest, but legally structured as a pair</text>
+<text x="170" y="568.0" font-family="sans-serif" font-size="8" fill="#718096"  >of foreign exchange transactions to circumvent usury laws.</text>
+<text x="170" y="588.8" font-family="sans-serif" font-size="8" fill="#718096"  >Davanzati's original (1581) used Florence-Lyons; the Venetian equivalent</text>
+<text x="170" y="599.1999999999999" font-family="sans-serif" font-size="8" fill="#718096"  >used Bruges, London, and the Flanders galleys as the rechange corridor.</text>
+<text x="170" y="609.6" font-family="sans-serif" font-size="8" fill="#718096"  >Mueller (Ch. 8) documents Andrea Barbarigo's rechange operations with</text>
+<text x="170" y="620.0" font-family="sans-serif" font-size="8" fill="#718096"  >London in 1434 and 1439-40 as the best-preserved Venetian examples.</text>
+</svg>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 1130" width="1180" height="1130">
+<rect width="1180" height="1130" fill="#ffffff"/>
+<rect x="40" y="40" width="1100" height="1050" rx="0" fill="#1a1a2e" stroke="#1e1e1e" stroke-width="0"  />
+<rect x="190" y="145" width="600" height="160" rx="30" fill="#2d3748" stroke="#48bb78" stroke-width="3"  />
+<rect x="340" y="175" width="300" height="25" rx="0" fill="#4a5568" stroke="#f6e05e" stroke-width="1"  />
+<rect x="270" y="178" width="30" height="50" rx="0" fill="#ed8936" stroke="#ed8936" stroke-width="1"  />
+<rect x="310" y="178" width="30" height="50" rx="0" fill="#ed8936" stroke="#ed8936" stroke-width="1"  />
+<rect x="350" y="178" width="30" height="50" rx="0" fill="#ed8936" stroke="#ed8936" stroke-width="1"  />
+<rect x="680" y="178" width="30" height="50" rx="0" fill="#ed8936" stroke="#ed8936" stroke-width="1"  />
+<rect x="640" y="178" width="30" height="50" rx="0" fill="#ed8936" stroke="#ed8936" stroke-width="1"  />
+<rect x="600" y="178" width="30" height="50" rx="0" fill="#ed8936" stroke="#ed8936" stroke-width="1"  />
+<path d="M 270 190 L 210 190" fill="none" stroke="#e53e3e" stroke-width="2"  />
+<path d="M 710 190 L 770 190" fill="none" stroke="#e53e3e" stroke-width="2"  />
+<path d="M 310 198 L 250 198" fill="none" stroke="#e53e3e" stroke-width="2"  />
+<path d="M 670 198 L 730 198" fill="none" stroke="#e53e3e" stroke-width="2"  />
+<path d="M 190 270 L 790 270" fill="none" stroke="#48bb78" stroke-width="3"  />
+<rect x="190" y="360" width="450" height="200" rx="30" fill="#0d1b2a" stroke="#38b2ac" stroke-width="2"  />
+<rect x="210" y="400" width="410" height="50" rx="30" fill="#2d3748" stroke="#38b2ac" stroke-width="2"  />
+<rect x="230" y="395" width="370" height="55" rx="30" fill="#2d3748" stroke="#38b2ac" stroke-width="1"  />
+<path d="M 220 410 L 610 410" fill="none" stroke="#e53e3e" stroke-width="1"  />
+<path d="M 220 418 L 610 418" fill="none" stroke="#e53e3e" stroke-width="1"  />
+<rect x="430" y="370" width="5" height="30" rx="0" fill="#718096" stroke="#718096" stroke-width="1"  />
+<rect x="190" y="570" width="450" height="220" rx="30" fill="#0d1b2a" stroke="#f6e05e" stroke-width="2"  />
+<rect x="210" y="610" width="410" height="60" rx="30" fill="#2d3748" stroke="#f6e05e" stroke-width="2"  />
+<rect x="220" y="605" width="390" height="65" rx="30" fill="#2d3748" stroke="#f6e05e" stroke-width="1"  />
+<path d="M 220 620 L 610 620" fill="none" stroke="#e53e3e" stroke-width="1"  />
+<path d="M 220 626 L 610 626" fill="none" stroke="#e53e3e" stroke-width="1"  />
+<rect x="340" y="580" width="5" height="30" rx="0" fill="#718096" stroke="#718096" stroke-width="1"  />
+<rect x="490" y="585" width="5" height="25" rx="0" fill="#718096" stroke="#718096" stroke-width="1"  />
+<rect x="250" y="655" width="330" height="20" rx="0" fill="#9f7aea" stroke="#9f7aea" stroke-width="1"  />
+<rect x="190" y="835" width="850" height="120" rx="30" fill="#0d1b2a" stroke="#4a5568" stroke-width="1"  />
+<path d="M 230 895 L 1010 895" fill="none" stroke="#4a5568" stroke-width="2"  />
+<polygon points="1010,895 1001.2241743810963,899.794255386042 1001.2241743810963,890.205744613958" fill="#4a5568" stroke="none"/>
+<rect x="230" y="890" width="80" height="12" rx="0" fill="#38b2ac" stroke="#1e1e1e" stroke-width="0"  opacity="0.5"/>
+<rect x="410" y="890" width="100" height="12" rx="0" fill="#f6e05e" stroke="#1e1e1e" stroke-width="0"  opacity="0.5"/>
+<rect x="610" y="890" width="120" height="12" rx="0" fill="#e53e3e" stroke="#1e1e1e" stroke-width="0"  opacity="0.5"/>
+<rect x="820" y="890" width="80" height="12" rx="0" fill="#9f7aea" stroke="#1e1e1e" stroke-width="0"  opacity="0.5"/>
+<text x="150" y="84.4" font-family="sans-serif" font-size="18" fill="#e2e8f0"  >Venetian Shipbuilding: Galley Types, Oar Systems, and the Oar-to-Sail Shift</text>
+<text x="150" y="119.6" font-family="sans-serif" font-size="12" fill="#718096"  >PANEL 1 — Galley Cross-Section (seen from above, mid-ship cutaway)</text>
+<text x="195" y="154.4" font-family="sans-serif" font-size="8" fill="#48bb78"  >Hull (waterline view)</text>
+<text x="490.0" y="184.4" font-family="sans-serif" font-size="8" fill="#f6e05e" text-anchor="middle" >Corsia (central gangway)</text>
+<text x="235" y="237.6" font-family="sans-serif" font-size="7" fill="#ed8936"  >← Banchi (rowing benches) — port side</text>
+<text x="645" y="237.6" font-family="sans-serif" font-size="7" fill="#ed8936"  >starboard side →</text>
+<text x="140" y="210.6" font-family="sans-serif" font-size="7" fill="#e53e3e"  >← Oars (remo)</text>
+<text x="740" y="210.6" font-family="sans-serif" font-size="7" fill="#e53e3e"  >→</text>
+<text x="400" y="266.4" font-family="sans-serif" font-size="8" fill="#48bb78"  >Keel — the backbone of the hull (typically oak)</text>
+<text x="150" y="339.6" font-family="sans-serif" font-size="12" fill="#718096"  >PANEL 2 — Galley Type Comparison: Galea Sottile vs Galea Grossa</text>
+<text x="200" y="373.0" font-family="sans-serif" font-size="10" fill="#38b2ac"  >Galea Sottile (&quot;Slender Galley&quot; — the classic war galley)</text>
+<text x="440" y="378.6" font-family="sans-serif" font-size="7" fill="#38b2ac"  >1 mast (lateen)</text>
+<text x="220" y="455.6" font-family="sans-serif" font-size="7" fill="#718096"  >Length: ~38m | Beam: ~4.5m | Oars: 120-150 | Rowers: 3-5 per oar (alla scaloccio) | Crew: ~180 | Speed: 7-8 knots</text>
+<text x="200" y="583.0" font-family="sans-serif" font-size="10" fill="#f6e05e"  >Galea Grossa (&quot;Large Galley&quot; — the armed merchant galley)</text>
+<text x="350" y="588.6" font-family="sans-serif" font-size="7" fill="#f6e05e"  >2 masts (lateen)</text>
+<text x="415.0" y="661.8" font-family="sans-serif" font-size="6" fill="#e2e8f0" text-anchor="middle" >Cargo hold (spices, wool, silk)</text>
+<text x="220" y="690.6" font-family="sans-serif" font-size="7" fill="#718096"  >Length: ~42m | Beam: ~6.5m | Oars: 120 | Rowers: 1 per oar (alla sensile) | Crew: ~160 | Cargo: ~140 tons</text>
+<text x="150" y="819.6" font-family="sans-serif" font-size="12" fill="#718096"  >PANEL 3 — Oar-to-Sail Evolution (Venetian Shipbuilding, 13th-16th c.)</text>
+<text x="240" y="868.0" font-family="sans-serif" font-size="10" fill="#38b2ac"  >Galea Sottile</text>
+<text x="230" y="883.6" font-family="sans-serif" font-size="7" fill="#4a5568"  >(13th c.)</text>
+<text x="410" y="868.0" font-family="sans-serif" font-size="10" fill="#f6e05e"  >Galea Grossa</text>
+<text x="405" y="883.6" font-family="sans-serif" font-size="7" fill="#4a5568"  >(14th-15th c.)</text>
+<text x="610" y="868.0" font-family="sans-serif" font-size="10" fill="#e53e3e"  >Carrack / Round Ship (Nave)</text>
+<text x="620" y="883.6" font-family="sans-serif" font-size="7" fill="#4a5568"  >(mid-15th c. onward)</text>
+<text x="820" y="868.0" font-family="sans-serif" font-size="10" fill="#9f7aea"  >Galleass</text>
+<text x="815" y="883.6" font-family="sans-serif" font-size="7" fill="#4a5568"  >(late 16th c.)</text>
+<text x="245" y="912.8" font-family="sans-serif" font-size="6" fill="#718096"  >↑ Oars primary</text>
+<text x="430" y="912.8" font-family="sans-serif" font-size="6" fill="#718096"  >↑ Oars + sails balanced</text>
+<text x="620" y="912.8" font-family="sans-serif" font-size="6" fill="#718096"  >↑ Sails primary (grain, bulk goods)</text>
+<text x="830" y="912.8" font-family="sans-serif" font-size="6" fill="#718096"  >↑ Sail + heavy cannon</text>
+<text x="150" y="976.4" font-family="sans-serif" font-size="8" fill="#a0aec0"  >Key: The Arsenal standardized components — the 'Arsenal system' meant galleys could be produced in 30 days. Galileo himself worked on galley proportions in the 1590s.</text>
+</svg>

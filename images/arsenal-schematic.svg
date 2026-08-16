@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 830" width="980" height="830">
+<rect width="980" height="830" fill="#ffffff"/>
+<rect x="40" y="40" width="900" height="750" rx="0" fill="#1a1a2e" stroke="#1e1e1e" stroke-width="0"  />
+<rect x="170" y="140" width="660" height="560" rx="30" fill="#2d3748" stroke="#e53e3e" stroke-width="3"  opacity="0.6"/>
+<rect x="450" y="140" width="80" height="60" rx="0" fill="#0d1b2a" stroke="#38b2ac" stroke-width="2"  />
+<ellipse cx="543.0" cy="173.0" rx="5.0" ry="5.0" fill="#f6e05e" stroke="#f6e05e" stroke-width="1"  />
+<ellipse cx="557.0" cy="173.0" rx="5.0" ry="5.0" fill="#f6e05e" stroke="#f6e05e" stroke-width="1"  />
+<rect x="290" y="220" width="420" height="140" rx="0" fill="#0d1b2a" stroke="#f6e05e" stroke-width="2"  />
+<rect x="290" y="380" width="420" height="130" rx="0" fill="#0d1b2a" stroke="#38b2ac" stroke-width="2"  />
+<rect x="290" y="530" width="420" height="150" rx="0" fill="#0d1b2a" stroke="#9f7aea" stroke-width="2"  />
+<rect x="190" y="240" width="80" height="420" rx="30" fill="#2d3748" stroke="#ed8936" stroke-width="2"  />
+<rect x="730" y="230" width="40" height="350" rx="0" fill="#2d3748" stroke="#48bb78" stroke-width="1"  />
+<rect x="190" y="560" width="80" height="40" rx="0" fill="#2d3748" stroke="#fc8181" stroke-width="1"  />
+<rect x="190" y="615" width="80" height="35" rx="0" fill="#2d3748" stroke="#f6e05e" stroke-width="1"  />
+<path d="M 535 202 L 535 220" fill="none" stroke="#38b2ac" stroke-width="2"  />
+<polygon points="535,220 530.205744613958,211.22417438109628 539.794255386042,211.22417438109628" fill="#38b2ac" stroke="none"/>
+<path d="M 590 360 L 590 380" fill="none" stroke="#718096" stroke-width="2"  />
+<polygon points="590,380 585.205744613958,371.22417438109625 594.794255386042,371.22417438109625" fill="#718096" stroke="none"/>
+<path d="M 590 510 L 590 530" fill="none" stroke="#718096" stroke-width="2"  />
+<polygon points="590,530 585.205744613958,521.2241743810963 594.794255386042,521.2241743810963" fill="#718096" stroke="none"/>
+<text x="290" y="87.6" font-family="sans-serif" font-size="22" fill="#e2e8f0"  >The Venetian Arsenal — Schematic Layout (c. 16th Century)</text>
+<text x="290" y="116.2" font-family="sans-serif" font-size="14" fill="#718096"  >~ 45 hectares — Europe's largest pre-industrial industrial complex ~</text>
+<text x="175" y="151.0" font-family="sans-serif" font-size="10" fill="#e53e3e"  >Arsenal Walls</text>
+<text x="175" y="164.0" font-family="sans-serif" font-size="10" fill="#e53e3e"  >(2.7 km)</text>
+<text x="490.0" y="153.0" font-family="sans-serif" font-size="10" fill="#e2e8f0" text-anchor="middle" >Entrance Canal</text>
+<text x="490.0" y="166.0" font-family="sans-serif" font-size="10" fill="#e2e8f0" text-anchor="middle" >(from Lagoon)</text>
+<text x="535" y="152.2" font-family="sans-serif" font-size="9" fill="#f6e05e"  >Towers</text>
+<text x="420.0" y="274.6" font-family="sans-serif" font-size="12" fill="#e2e8f0" text-anchor="middle" >Darsena Vecchia (Old Basin)</text>
+<text x="420.0" y="290.20000000000005" font-family="sans-serif" font-size="12" fill="#e2e8f0" text-anchor="middle" >Original Arsenal — 12th-13th century</text>
+<text x="435.0" y="429.6" font-family="sans-serif" font-size="12" fill="#e2e8f0" text-anchor="middle" >Darsena Nuova (New Basin)</text>
+<text x="435.0" y="445.20000000000005" font-family="sans-serif" font-size="12" fill="#e2e8f0" text-anchor="middle" >Expansion of 1325</text>
+<text x="420.0" y="589.6" font-family="sans-serif" font-size="12" fill="#e2e8f0" text-anchor="middle" >Nuovissimo (Newest Basin)</text>
+<text x="420.0" y="605.2" font-family="sans-serif" font-size="12" fill="#e2e8f0" text-anchor="middle" >Enlarged 1473-1570</text>
+<text x="195.0" y="428.0" font-family="sans-serif" font-size="10" fill="#e2e8f0" text-anchor="middle" >Corderie</text>
+<text x="195.0" y="441.0" font-family="sans-serif" font-size="10" fill="#e2e8f0" text-anchor="middle" >(Rope Hall)</text>
+<text x="195.0" y="454.0" font-family="sans-serif" font-size="10" fill="#e2e8f0" text-anchor="middle" >316 m long</text>
+<text x="195.0" y="467.0" font-family="sans-serif" font-size="10" fill="#e2e8f0" text-anchor="middle" >built 1579</text>
+<text x="735.0" y="387.2" font-family="sans-serif" font-size="9" fill="#e2e8f0" text-anchor="middle" >Squeri</text>
+<text x="735.0" y="398.9" font-family="sans-serif" font-size="9" fill="#e2e8f0" text-anchor="middle" >(Slipways)</text>
+<text x="735.0" y="410.59999999999997" font-family="sans-serif" font-size="9" fill="#e2e8f0" text-anchor="middle" >for</text>
+<text x="735.0" y="422.3" font-family="sans-serif" font-size="9" fill="#e2e8f0" text-anchor="middle" >fitting</text>
+<text x="735.0" y="434.0" font-family="sans-serif" font-size="9" fill="#e2e8f0" text-anchor="middle" >&amp; repair</text>
+<text x="230.0" y="572.2" font-family="sans-serif" font-size="9" fill="#e2e8f0" text-anchor="middle" >Foundries</text>
+<text x="230.0" y="583.9000000000001" font-family="sans-serif" font-size="9" fill="#e2e8f0" text-anchor="middle" >(ordnance)</text>
+<text x="230.0" y="626.2" font-family="sans-serif" font-size="9" fill="#e2e8f0" text-anchor="middle" >Magazzini</text>
+<text x="230.0" y="637.9000000000001" font-family="sans-serif" font-size="9" fill="#e2e8f0" text-anchor="middle" >(Storehouses)</text>
+<text x="550" y="208.4" font-family="sans-serif" font-size="8" fill="#38b2ac"  >Water flow in</text>
+<text x="600" y="436.4" font-family="sans-serif" font-size="8" fill="#718096"  >Connecting channels</text>
+<text x="600" y="446.79999999999995" font-family="sans-serif" font-size="8" fill="#718096"  >galleys moved through</text>
+<text x="600" y="457.2" font-family="sans-serif" font-size="8" fill="#718096"  >lock system</text>
+<text x="270" y="718.0" font-family="sans-serif" font-size="10" fill="#a0aec0"  >Key facts:</text>
+<text x="270" y="731.0" font-family="sans-serif" font-size="10" fill="#a0aec0"  >- Peak: 16,000 workers in 1570 (≈8% of Venice's population)</text>
+<text x="270" y="744.0" font-family="sans-serif" font-size="10" fill="#a0aec0"  >- Could produce a fully-armed galley in 30 days</text>
+<text x="270" y="757.0" font-family="sans-serif" font-size="10" fill="#a0aec0"  >- Standardized parts: 'Arsenal system' = interchangeable components</text>
+<text x="270" y="770.0" font-family="sans-serif" font-size="10" fill="#a0aec0"  >- The 'Tezon' (covered docks) allowed year-round construction</text>
+<text x="270" y="783.0" font-family="sans-serif" font-size="10" fill="#a0aec0"  >- Galileo worked here as a consultant (1590s, advising on galley proportions)</text>
+</svg>

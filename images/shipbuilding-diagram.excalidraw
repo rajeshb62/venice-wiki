@@ -1,0 +1,137 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "hermes-agent",
+  "elements": [
+    {
+      "type": "rectangle",
+      "id": "bg",
+      "x": -50, "y": -50, "width": 1100, "height": 1050,
+      "backgroundColor": "#1a1a2e",
+      "fillStyle": "solid",
+      "strokeWidth": 0, "opacity": 100
+    },
+    {
+      "type": "text",
+      "id": "t-title",
+      "x": 60, "y": -20,
+      "text": "Venetian Shipbuilding: Galley Types, Oar Systems, and the Oar-to-Sail Shift",
+      "fontSize": 18, "fontFamily": 1, "strokeColor": "#e2e8f0",
+      "originalText": "Venetian Shipbuilding: Galley Types, Oar Systems, and the Oar-to-Sail Shift",
+      "autoResize": true
+    },
+
+    {"type":"text","id":"t-p1","x":60,"y":20,"text":"PANEL 1 — Galley Cross-Section (seen from above, mid-ship cutaway)","fontSize":12,"fontFamily":1,"strokeColor":"#718096","originalText":"PANEL 1 — Galley Cross-Section (seen from above, mid-ship cutaway)","autoResize":true},
+
+    {
+      "type": "rectangle",
+      "id": "hull-outline",
+      "x": 100, "y": 55, "width": 600, "height": 160,
+      "backgroundColor": "#2d3748",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "strokeColor": "#48bb78",
+      "roundness": {"type": 3}
+    },
+    {"type":"text","id":"t-hull","x":105,"y":58,"text":"Hull (waterline view)","fontSize":8,"fontFamily":1,"strokeColor":"#48bb78","originalText":"Hull (waterline view)","autoResize":true},
+
+    {
+      "type": "rectangle",
+      "id": "corsia",
+      "x": 250, "y": 85, "width": 300, "height": 25,
+      "backgroundColor": "#4a5568",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeColor": "#f6e05e"
+    },
+    {"type":"text","id":"t-corsia","x":340,"y":88,"width":120,"height":18,"text":"Corsia (central gangway)","fontSize":8,"fontFamily":1,"strokeColor":"#f6e05e","textAlign":"center","verticalAlign":"middle","containerId":"corsia","originalText":"Corsia (central gangway)","autoResize":true},
+
+    {"type":"rectangle","id":"benchL1","x":180,"y":88,"width":30,"height":50,"backgroundColor":"#ed8936","fillStyle":"solid","strokeWidth":1,"strokeColor":"#ed8936"},
+    {"type":"rectangle","id":"benchL2","x":220,"y":88,"width":30,"height":50,"backgroundColor":"#ed8936","fillStyle":"solid","strokeWidth":1,"strokeColor":"#ed8936"},
+    {"type":"rectangle","id":"benchL3","x":260,"y":88,"width":30,"height":50,"backgroundColor":"#ed8936","fillStyle":"solid","strokeWidth":1,"strokeColor":"#ed8936"},
+    {"type":"rectangle","id":"benchR1","x":590,"y":88,"width":30,"height":50,"backgroundColor":"#ed8936","fillStyle":"solid","strokeWidth":1,"strokeColor":"#ed8936"},
+    {"type":"rectangle","id":"benchR2","x":550,"y":88,"width":30,"height":50,"backgroundColor":"#ed8936","fillStyle":"solid","strokeWidth":1,"strokeColor":"#ed8936"},
+    {"type":"rectangle","id":"benchR3","x":510,"y":88,"width":30,"height":50,"backgroundColor":"#ed8936","fillStyle":"solid","strokeWidth":1,"strokeColor":"#ed8936"},
+
+    {"type":"text","id":"t-benches","x":145,"y":142,"text":"← Banchi (rowing benches) — port side","fontSize":7,"fontFamily":1,"strokeColor":"#ed8936","originalText":"← Banchi (rowing benches) — port side","autoResize":true},
+    {"type":"text","id":"t-benchesR","x":555,"y":142,"text":"starboard side →","fontSize":7,"fontFamily":1,"strokeColor":"#ed8936","originalText":"starboard side →","autoResize":true},
+
+    {"type":"line","id":"oarL1","x":180,"y":100,"width":-60,"height":0,"points":[[0,0],[-60,0]],"strokeColor":"#e53e3e","endArrowhead":null},
+    {"type":"line","id":"oarR1","x":620,"y":100,"width":60,"height":0,"points":[[0,0],[60,0]],"strokeColor":"#e53e3e","endArrowhead":null},
+    {"type":"line","id":"oarL2","x":220,"y":108,"width":-60,"height":0,"points":[[0,0],[-60,0]],"strokeColor":"#e53e3e"},
+    {"type":"line","id":"oarR2","x":580,"y":108,"width":60,"height":0,"points":[[0,0],[60,0]],"strokeColor":"#e53e3e"},
+
+    {"type":"text","id":"t-oars","x":50,"y":115,"text":"← Oars (remo)","fontSize":7,"fontFamily":1,"strokeColor":"#e53e3e","originalText":"← Oars (remo)","autoResize":true},
+    {"type":"text","id":"t-oarsR","x":650,"y":115,"text":"→","fontSize":7,"fontFamily":1,"strokeColor":"#e53e3e","originalText":"→","autoResize":true},
+
+    {"type":"text","id":"t-keel","x":310,"y":170,"text":"Keel — the backbone of the hull (typically oak)","fontSize":8,"fontFamily":1,"strokeColor":"#48bb78","originalText":"Keel — the backbone of the hull (typically oak)","autoResize":true},
+
+    {"type":"line","id":"keel","x":100,"y":180,"width":600,"height":0,"points":[[0,0],[600,0]],"strokeColor":"#48bb78","strokeWidth":3},
+
+    {"type":"text","id":"t-p2","x":60,"y":240,"text":"PANEL 2 — Galley Type Comparison: Galea Sottile vs Galea Grossa","fontSize":12,"fontFamily":1,"strokeColor":"#718096","originalText":"PANEL 2 — Galley Type Comparison: Galea Sottile vs Galea Grossa","autoResize":true},
+
+    {"type":"rectangle","id":"sottile-bg","x":100,"y":270,"width":450,"height":200,"backgroundColor":"#0d1b2a","fillStyle":"solid","strokeWidth":2,"strokeColor":"#38b2ac","roundness":{"type":3}},
+    {"type":"text","id":"t-sottile","x":110,"y":275,"text":"Galea Sottile (\"Slender Galley\" — the classic war galley)","fontSize":10,"fontFamily":1,"strokeColor":"#38b2ac","originalText":"Galea Sottile (\"Slender Galley\" — the classic war galley)","autoResize":true},
+
+    {"type":"rectangle","id":"sottile-hull","x":120,"y":310,"width":410,"height":50,"backgroundColor":"#2d3748","fillStyle":"solid","strokeWidth":2,"strokeColor":"#38b2ac","roundness":{"type":3}},
+    {"type":"rectangle","id":"sottile-hull2","x":140,"y":305,"width":370,"height":55,"backgroundColor":"#2d3748","fillStyle":"solid","strokeWidth":1,"strokeColor":"#38b2ac","roundness":{"type":3}},
+
+    {"type":"line","id":"sottile-oars","x":130,"y":320,"width":390,"height":0,"points":[[0,0],[390,0]],"strokeColor":"#e53e3e","strokeWidth":1},
+    {"type":"line","id":"sottile-oars2","x":130,"y":328,"width":390,"height":0,"points":[[0,0],[390,0]],"strokeColor":"#e53e3e","strokeWidth":1},
+
+    {"type":"rectangle","id":"sottile-mast","x":340,"y":280,"width":5,"height":30,"backgroundColor":"#718096","fillStyle":"solid","strokeWidth":1,"strokeColor":"#718096"},
+    {"type":"text","id":"t-sottile-mast","x":350,"y":283,"text":"1 mast (lateen)","fontSize":7,"fontFamily":1,"strokeColor":"#38b2ac","originalText":"1 mast (lateen)","autoResize":true},
+
+    {"type":"text","id":"t-sottile-specs","x":130,"y":360,"text":"Length: ~38m | Beam: ~4.5m | Oars: 120-150 | Rowers: 3-5 per oar (alla scaloccio) | Crew: ~180 | Speed: 7-8 knots","fontSize":7,"fontFamily":1,"strokeColor":"#718096","originalText":"Length: ~38m | Beam: ~4.5m","autoResize":true},
+
+    {"type":"rectangle","id":"grossa-bg","x":100,"y":480,"width":450,"height":220,"backgroundColor":"#0d1b2a","fillStyle":"solid","strokeWidth":2,"strokeColor":"#f6e05e","roundness":{"type":3}},
+    {"type":"text","id":"t-grossa","x":110,"y":485,"text":"Galea Grossa (\"Large Galley\" — the armed merchant galley)","fontSize":10,"fontFamily":1,"strokeColor":"#f6e05e","originalText":"Galea Grossa (\"Large Galley\" — the armed merchant galley)","autoResize":true},
+
+    {"type":"rectangle","id":"grossa-hull","x":120,"y":520,"width":410,"height":60,"backgroundColor":"#2d3748","fillStyle":"solid","strokeWidth":2,"strokeColor":"#f6e05e","roundness":{"type":3}},
+    {"type":"rectangle","id":"grossa-hull2","x":130,"y":515,"width":390,"height":65,"backgroundColor":"#2d3748","fillStyle":"solid","strokeWidth":1,"strokeColor":"#f6e05e","roundness":{"type":3}},
+
+    {"type":"line","id":"grossa-oars","x":130,"y":530,"width":390,"height":0,"points":[[0,0],[390,0]],"strokeColor":"#e53e3e","strokeWidth":1},
+    {"type":"line","id":"grossa-oars2","x":130,"y":536,"width":390,"height":0,"points":[[0,0],[390,0]],"strokeColor":"#e53e3e","strokeWidth":1},
+
+    {"type":"rectangle","id":"grossa-mast1","x":250,"y":490,"width":5,"height":30,"backgroundColor":"#718096","fillStyle":"solid","strokeWidth":1,"strokeColor":"#718096"},
+    {"type":"rectangle","id":"grossa-mast2","x":400,"y":495,"width":5,"height":25,"backgroundColor":"#718096","fillStyle":"solid","strokeWidth":1,"strokeColor":"#718096"},
+    {"type":"text","id":"t-grossa-mast","x":260,"y":493,"text":"2 masts (lateen)","fontSize":7,"fontFamily":1,"strokeColor":"#f6e05e","originalText":"2 masts (lateen)","autoResize":true},
+
+    {"type":"rectangle","id":"grossa-cargo","x":160,"y":565,"width":330,"height":20,"backgroundColor":"#9f7aea","fillStyle":"solid","strokeWidth":1,"strokeColor":"#9f7aea"},
+    {"type":"text","id":"t-grossa-cargo","x":280,"y":567,"width":90,"height":16,"text":"Cargo hold (spices, wool, silk)","fontSize":6,"fontFamily":1,"strokeColor":"#e2e8f0","textAlign":"center","verticalAlign":"middle","containerId":"grossa-cargo","originalText":"Cargo hold","autoResize":true},
+
+    {"type":"text","id":"t-grossa-specs","x":130,"y":595,"text":"Length: ~42m | Beam: ~6.5m | Oars: 120 | Rowers: 1 per oar (alla sensile) | Crew: ~160 | Cargo: ~140 tons","fontSize":7,"fontFamily":1,"strokeColor":"#718096","originalText":"Length: ~42m | Beam: ~6.5m","autoResize":true},
+
+    {"type":"text","id":"t-p3","x":60,"y":720,"text":"PANEL 3 — Oar-to-Sail Evolution (Venetian Shipbuilding, 13th-16th c.)","fontSize":12,"fontFamily":1,"strokeColor":"#718096","originalText":"PANEL 3 — Oar-to-Sail Evolution (Venetian Shipbuilding, 13th-16th c.)","autoResize":true},
+
+    {"type":"rectangle","id":"evolution-bg","x":100,"y":745,"width":850,"height":120,"backgroundColor":"#0d1b2a","fillStyle":"solid","strokeWidth":1,"strokeColor":"#4a5568","roundness":{"type":3}},
+
+    {"type":"arrow","id":"evo-arrow","x":140,"y":805,"width":780,"height":0,"points":[[0,0],[780,0]],"endArrowhead":"arrow","strokeColor":"#4a5568"},
+
+    {"type":"text","id":"sottile-label","x":150,"y":770,"text":"Galea Sottile","fontSize":10,"fontFamily":1,"strokeColor":"#38b2ac","originalText":"Galea Sottile","autoResize":true},
+    {"type":"text","id":"sottile-date","x":140,"y":788,"text":"(13th c.)","fontSize":7,"fontFamily":1,"strokeColor":"#4a5568","originalText":"(13th c.)","autoResize":true},
+    {"type":"rectangle","id":"sottile-icon","x":140,"y":800,"width":80,"height":12,"backgroundColor":"#38b2ac","fillStyle":"solid","strokeWidth":0,"opacity":50},
+
+    {"type":"text","id":"grossa-label","x":320,"y":770,"text":"Galea Grossa","fontSize":10,"fontFamily":1,"strokeColor":"#f6e05e","originalText":"Galea Grossa","autoResize":true},
+    {"type":"text","id":"grossa-date","x":315,"y":788,"text":"(14th-15th c.)","fontSize":7,"fontFamily":1,"strokeColor":"#4a5568","originalText":"(14th-15th c.)","autoResize":true},
+    {"type":"rectangle","id":"grossa-icon","x":320,"y":800,"width":100,"height":12,"backgroundColor":"#f6e05e","fillStyle":"solid","strokeWidth":0,"opacity":50},
+
+    {"type":"text","id":"carrack-label","x":520,"y":770,"text":"Carrack / Round Ship (Nave)","fontSize":10,"fontFamily":1,"strokeColor":"#e53e3e","originalText":"Carrack / Round Ship (Nave)","autoResize":true},
+    {"type":"text","id":"carrack-date","x":530,"y":788,"text":"(mid-15th c. onward)","fontSize":7,"fontFamily":1,"strokeColor":"#4a5568","originalText":"(mid-15th c. onward)","autoResize":true},
+    {"type":"rectangle","id":"carrack-icon","x":520,"y":800,"width":120,"height":12,"backgroundColor":"#e53e3e","fillStyle":"solid","strokeWidth":0,"opacity":50},
+
+    {"type":"text","id":"galleon-label","x":730,"y":770,"text":"Galleass","fontSize":10,"fontFamily":1,"strokeColor":"#9f7aea","originalText":"Galleass","autoResize":true},
+    {"type":"text","id":"galleon-date","x":725,"y":788,"text":"(late 16th c.)","fontSize":7,"fontFamily":1,"strokeColor":"#4a5568","originalText":"(late 16th c.)","autoResize":true},
+    {"type":"rectangle","id":"galleon-icon","x":730,"y":800,"width":80,"height":12,"backgroundColor":"#9f7aea","fillStyle":"solid","strokeWidth":0,"opacity":50},
+
+    {"type":"text","id":"evo-oars","x":155,"y":818,"text":"↑ Oars primary","fontSize":6,"fontFamily":1,"strokeColor":"#718096","originalText":"↑ Oars primary","autoResize":true},
+    {"type":"text","id":"evo-balance","x":340,"y":818,"text":"↑ Oars + sails balanced","fontSize":6,"fontFamily":1,"strokeColor":"#718096","originalText":"← Oars + sails balanced","autoResize":true},
+    {"type":"text","id":"evo-sail","x":530,"y":818,"text":"↑ Sails primary (grain, bulk goods)","fontSize":6,"fontFamily":1,"strokeColor":"#718096","originalText":"↑ Sails primary (grain, bulk goods)","autoResize":true},
+    {"type":"text","id":"evo-cannon","x":740,"y":818,"text":"↑ Sail + heavy cannon","fontSize":6,"fontFamily":1,"strokeColor":"#718096","originalText":"↑ Sail + heavy cannon","autoResize":true},
+
+    {"type":"text","id":"t-shipbuilding-note","x":60,"y":880,"text":"Key: The Arsenal standardized components — the 'Arsenal system' meant galleys could be produced in 30 days. Galileo himself worked on galley proportions in the 1590s.","fontSize":8,"fontFamily":1,"strokeColor":"#a0aec0","originalText":"Key: The Arsenal standardized components — the 'Arsenal system' meant galleys could be produced in 30 days. Galileo himself worked on galley proportions in the 1590s.","autoResize":true}
+  ],
+  "appState": {
+    "viewBackgroundColor": "#ffffff"
+  }
+}

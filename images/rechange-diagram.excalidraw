@@ -1,0 +1,146 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "hermes-agent",
+  "elements": [
+    {
+      "type": "rectangle",
+      "id": "bg",
+      "x": -50, "y": -50, "width": 800, "height": 600,
+      "backgroundColor": "#1a1a2e",
+      "fillStyle": "solid",
+      "strokeWidth": 0, "opacity": 100
+    },
+    {
+      "type": "text",
+      "id": "t-title",
+      "x": 80, "y": 20,
+      "text": "Exchange and Rechange: The Venetian Carry Trade",
+      "fontSize": 18, "fontFamily": 1, "strokeColor": "#e2e8f0",
+      "originalText": "Exchange and Rechange: The Venetian Carry Trade",
+      "autoResize": true
+    },
+    {
+      "type": "text",
+      "id": "t-sub",
+      "x": 80, "y": 50,
+      "text": "Based on Davanzati, Notizia de' cambi (1581) — adapted for Venice-London",
+      "fontSize": 10, "fontFamily": 1, "strokeColor": "#718096",
+      "originalText": "Based on Davanzati, Notizia de' cambi (1581) — adapted for Venice-London",
+      "autoResize": true
+    },
+
+    {
+      "type": "rectangle",
+      "id": "venice-box",
+      "x": 100, "y": 140, "width": 200, "height": 100,
+      "backgroundColor": "#2d3748",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeColor": "#f6e05e",
+      "roundness": {"type": 3}
+    },
+    {
+      "type": "text",
+      "id": "t-venice",
+      "x": 130, "y": 160, "width": 140, "height": 60,
+      "text": "VENICE\n(Lender)\n102½ ducats",
+      "fontSize": 11, "fontFamily": 1, "strokeColor": "#e2e8f0",
+      "textAlign": "center", "verticalAlign": "middle",
+      "containerId": "venice-box", "originalText": "VENICE\n(Lender)\n102½ ducats", "autoResize": true
+    },
+
+    {
+      "type": "rectangle",
+      "id": "london-box",
+      "x": 420, "y": 140, "width": 220, "height": 100,
+      "backgroundColor": "#2d3748",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeColor": "#48bb78",
+      "roundness": {"type": 3}
+    },
+    {
+      "type": "text",
+      "id": "t-london",
+      "x": 450, "y": 160, "width": 160, "height": 60,
+      "text": "LONDON\n(Borrower)\n104¾ ducats\nrepaid",
+      "fontSize": 11, "fontFamily": 1, "strokeColor": "#e2e8f0",
+      "textAlign": "center", "verticalAlign": "middle",
+      "containerId": "london-box", "originalText": "LONDON\n(Borrower)\n104¾ ducats repaid", "autoResize": true
+    },
+
+    {
+      "type": "arrow",
+      "id": "a-exchange",
+      "x": 300, "y": 170,
+      "width": 120, "height": 0,
+      "points": [[0,0],[120,0]],
+      "endArrowhead": "arrow",
+      "strokeColor": "#f6e05e",
+      "strokeWidth": 2.5
+    },
+    {
+      "type": "text",
+      "id": "t-exchange",
+      "x": 320, "y": 155,
+      "text": "1. EXCHANGE:\nlends 102½ ducats\nin Venice, repayable\nin London at current rate",
+      "fontSize": 8, "fontFamily": 1, "strokeColor": "#f6e05e",
+      "originalText": "1. EXCHANGE: lends 102½ ducats in Venice, repayable in London at current rate",
+      "autoResize": true
+    },
+
+    {
+      "type": "arrow",
+      "id": "a-rechange",
+      "x": 420, "y": 200,
+      "width": 120, "height": 0,
+      "points": [[120,0],[0,0]],
+      "endArrowhead": "arrow",
+      "strokeColor": "#48bb78",
+      "strokeWidth": 2.5
+    },
+    {
+      "type": "text",
+      "id": "t-rechange",
+      "x": 300, "y": 200,
+      "text": "2. RECHANGE:\nredraws bill back\nto Venice — repayment\nat higher rate",
+      "fontSize": 8, "fontFamily": 1, "strokeColor": "#48bb78",
+      "originalText": "2. RECHANGE: redraws bill back to Venice — repayment at higher rate",
+      "autoResize": true
+    },
+
+    {
+      "type": "rectangle",
+      "id": "profit-box",
+      "x": 130, "y": 320, "width": 460, "height": 80,
+      "backgroundColor": "#0d1b2a",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeColor": "#e53e3e",
+      "roundness": {"type": 3}
+    },
+    {
+      "type": "text",
+      "id": "t-profit",
+      "x": 145, "y": 330, "width": 430, "height": 60,
+      "text": "PROFIT: 104¾ − 102½ = 2¼ ducats per 100 ducats lent\n≈ 3.8% annual return (at 7-month maturity)\n\nEconomic substance: an interest-bearing loan, legally disguised as\nback-to-back foreign exchange contracts.",
+      "fontSize": 9, "fontFamily": 1, "strokeColor": "#e2e8f0",
+      "textAlign": "center", "verticalAlign": "middle",
+      "containerId": "profit-box", "originalText": "PROFIT: 104¾ − 102½ = 2¼ ducats", "autoResize": true
+    },
+
+    {
+      "type": "text",
+      "id": "t-note",
+      "x": 80, "y": 430,
+      "text": "The diagram illustrates a rechange operation between Venice and London.\nThe lender (Venice) advances funds at one exchange rate; the borrower (London)\nrepays at a higher rate after a fixed term. The difference is the profit —\neconomically equivalent to interest, but legally structured as a pair\nof foreign exchange transactions to circumvent usury laws.\n\nDavanzati's original (1581) used Florence-Lyons; the Venetian equivalent\nused Bruges, London, and the Flanders galleys as the rechange corridor.\nMueller (Ch. 8) documents Andrea Barbarigo's rechange operations with\nLondon in 1434 and 1439-40 as the best-preserved Venetian examples.",
+      "fontSize": 8, "fontFamily": 1, "strokeColor": "#718096",
+      "originalText": "The diagram illustrates a rechange operation between Venice and London.",
+      "autoResize": true
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#ffffff"
+  }
+}

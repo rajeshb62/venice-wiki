@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 830" width="980" height="830">
+<rect width="980" height="830" fill="#ffffff"/>
+<rect x="40" y="40" width="900" height="750" rx="0" fill="#1a1a2e" stroke="#1e1e1e" stroke-width="0"  />
+<rect x="210" y="325" width="500" height="45" rx="30" fill="#0d1b2a" stroke="#38b2ac" stroke-width="3"  />
+<rect x="430" y="305" width="60" height="85" rx="30" fill="#2d3748" stroke="#f6e05e" stroke-width="2"  />
+<rect x="440" y="250" width="100" height="50" rx="30" fill="#2d3748" stroke="#ed8936" stroke-width="2"  />
+<rect x="370" y="380" width="180" height="70" rx="30" fill="#2d3748" stroke="#48bb78" stroke-width="2"  />
+<rect x="520" y="380" width="130" height="70" rx="30" fill="#2d3748" stroke="#9f7aea" stroke-width="2"  />
+<rect x="610" y="390" width="100" height="100" rx="30" fill="#2d3748" stroke="#fc8181" stroke-width="2"  />
+<rect x="590" y="240" width="120" height="40" rx="30" fill="#2d3748" stroke="#e53e3e" stroke-width="1"  />
+<path d="M 210 330 L 240 330" fill="none" stroke="#38b2ac" stroke-width="2"  />
+<polygon points="240,330 231.22417438109628,334.79425538604204 231.22417438109628,325.20574461395796" fill="#38b2ac" stroke="none"/>
+<rect x="230" y="240" width="15" height="85" rx="0" fill="#0d1b2a" stroke="#3a4a6a" stroke-width="1"  />
+<rect x="230" y="325" width="15" height="70" rx="0" fill="#0d1b2a" stroke="#3a4a6a" stroke-width="1"  />
+<rect x="610" y="325" width="15" height="65" rx="0" fill="#0d1b2a" stroke="#3a4a6a" stroke-width="1"  />
+<text x="270" y="86.0" font-family="sans-serif" font-size="20" fill="#e2e8f0"  >The Rialto District — Venice's Commercial Heart (c. 1500)</text>
+<text x="290" y="108.8" font-family="sans-serif" font-size="11" fill="#718096"  >Schematic plan — Grand Canal runs left to right. North is up, arrow shows the Canal's flow through the S-bend.</text>
+<text x="275" y="142.2" font-family="sans-serif" font-size="9" fill="#4a5568"  >NORTH (Cannaregio / Fondamente Nuove →)</text>
+<text x="275" y="567.2" font-family="sans-serif" font-size="9" fill="#4a5568"  >SOUTH (San Marco / Giudecca →)</text>
+<text x="460.0" y="346.0" font-family="sans-serif" font-size="10" fill="#38b2ac" text-anchor="middle" >Grand Canal (Canalazzo)</text>
+<text x="460.0" y="335.6" font-family="sans-serif" font-size="7" fill="#e2e8f0" text-anchor="middle" >Rialto</text>
+<text x="460.0" y="344.70000000000005" font-family="sans-serif" font-size="7" fill="#e2e8f0" text-anchor="middle" >Bridge</text>
+<text x="460.0" y="353.8" font-family="sans-serif" font-size="7" fill="#e2e8f0" text-anchor="middle" >(wooden</text>
+<text x="460.0" y="362.90000000000003" font-family="sans-serif" font-size="7" fill="#e2e8f0" text-anchor="middle" >until 1591)</text>
+<text x="490.0" y="265.6" font-family="sans-serif" font-size="7" fill="#e2e8f0" text-anchor="middle" >Fondaco dei Tedeschi</text>
+<text x="490.0" y="274.70000000000005" font-family="sans-serif" font-size="7" fill="#e2e8f0" text-anchor="middle" >(German warehouse</text>
+<text x="490.0" y="283.8" font-family="sans-serif" font-size="7" fill="#e2e8f0" text-anchor="middle" >+ lodging)</text>
+<text x="460.0" y="395.6" font-family="sans-serif" font-size="7" fill="#e2e8f0" text-anchor="middle" >Rialto Market District</text>
+<text x="460.0" y="404.70000000000005" font-family="sans-serif" font-size="7" fill="#e2e8f0" text-anchor="middle" >- Fruit &amp; vegetable market</text>
+<text x="460.0" y="413.8" font-family="sans-serif" font-size="7" fill="#e2e8f0" text-anchor="middle" >- Fish market (Pescheria)</text>
+<text x="460.0" y="422.90000000000003" font-family="sans-serif" font-size="7" fill="#e2e8f0" text-anchor="middle" >- Spice, silk, luxury rows</text>
+<text x="585.0" y="395.6" font-family="sans-serif" font-size="7" fill="#e2e8f0" text-anchor="middle" >Rialto Banks</text>
+<text x="585.0" y="404.70000000000005" font-family="sans-serif" font-size="7" fill="#e2e8f0" text-anchor="middle" >- Banco della Piazza</text>
+<text x="585.0" y="413.8" font-family="sans-serif" font-size="7" fill="#e2e8f0" text-anchor="middle" >- Banco Giro</text>
+<text x="585.0" y="422.90000000000003" font-family="sans-serif" font-size="7" fill="#e2e8f0" text-anchor="middle" >- Money changers</text>
+<text x="585.0" y="432.0" font-family="sans-serif" font-size="7" fill="#e2e8f0" text-anchor="middle" >- Exchange counters</text>
+<text x="660.0" y="420.6" font-family="sans-serif" font-size="7" fill="#e2e8f0" text-anchor="middle" >Piazza</text>
+<text x="660.0" y="429.70000000000005" font-family="sans-serif" font-size="7" fill="#e2e8f0" text-anchor="middle" >San Marco</text>
+<text x="660.0" y="438.8" font-family="sans-serif" font-size="7" fill="#e2e8f0" text-anchor="middle" >(St. Mark's</text>
+<text x="660.0" y="447.90000000000003" font-family="sans-serif" font-size="7" fill="#e2e8f0" text-anchor="middle" >Basilica +</text>
+<text x="660.0" y="457.0" font-family="sans-serif" font-size="7" fill="#e2e8f0" text-anchor="middle" >Palace)</text>
+<text x="650.0" y="249.8" font-family="sans-serif" font-size="6" fill="#e2e8f0" text-anchor="middle" >Arsenal (→ east)</text>
+<text x="650.0" y="257.6" font-family="sans-serif" font-size="6" fill="#e2e8f0" text-anchor="middle" >1.5 km down</text>
+<text x="650.0" y="265.40000000000003" font-family="sans-serif" font-size="6" fill="#e2e8f0" text-anchor="middle" >Riva degli Schiavoni</text>
+<text x="190" y="322.8" font-family="sans-serif" font-size="6" fill="#38b2ac"  >Canal flow</text>
+<text x="230" y="516.4" font-family="sans-serif" font-size="8" fill="#a0aec0"  >Key facts about the Rialto District:</text>
+<text x="230" y="526.8" font-family="sans-serif" font-size="8" fill="#a0aec0"  >- Rialto = 'Rivoalto' (high bank) — the first inhabited area of Venice</text>
+<text x="230" y="537.1999999999999" font-family="sans-serif" font-size="8" fill="#a0aec0"  >- The wooden Rialto Bridge was the only bridge over the Grand Canal until the Accademia Bridge (1854)</text>
+<text x="230" y="547.6" font-family="sans-serif" font-size="8" fill="#a0aec0"  >- The Fondaco dei Tedeschi was the largest of several 'fondachi' (foreign trading compounds)</text>
+<text x="230" y="558.0" font-family="sans-serif" font-size="8" fill="#a0aec0"  >- German merchants lived here under strict curfew — locked in at night</text>
+<text x="230" y="568.4" font-family="sans-serif" font-size="8" fill="#a0aec0"  >- Dante Gabriel Rossetti's father was a custodian here in the 19th century</text>
+<text x="230" y="578.8" font-family="sans-serif" font-size="8" fill="#a0aec0"  >- The Rialto banking district was Europe's first concentration of public and private banks</text>
+</svg>
